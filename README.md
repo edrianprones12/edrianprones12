@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, I am Edrian!👋
 
 <!--
 **edrianprones12/edrianprones12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
