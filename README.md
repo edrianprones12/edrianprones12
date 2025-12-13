@@ -2,7 +2,7 @@
 
 ✨ Information Technology Student | Exploring web & building cool stuff
 
-📍 Caraga State University Cabadbaran Campus
+📍 Currently studying at Caraga State University Cabadbaran Campus
 
 ---
 
