@@ -1,6 +1,5 @@
-## Hello there, I am Edrian!👋
+# 👋Hello there, I am Edrian!
 
-# 👋 Hi, I'm YOUR NAME!
 ✨ Information Technology Student | Exploring web & building cool stuff
 
 📍 Caraga State University Cabadbaran Campus
