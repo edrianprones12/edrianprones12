@@ -9,10 +9,10 @@
 ## 💻 About Me
 I'm passionate about coding, open source, and learning new technologies.
 
-- 🔭 I’m currently working on: Web Development
-- 🌱 I’m learning: Mobile Development
-- 🤔 I’m looking to collaborate on: Java
-- 💬 Ask me about: Web Technologies
+- 🔭 I’m currently working on: Web Development  
+- 🌱 I’m learning: Mobile Development  
+- 🏐 Aside from coding, I love playing volleyball  
+- 🎧 Listening to music helps me stay productive  
 
 ---
 
