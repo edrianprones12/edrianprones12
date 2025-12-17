@@ -60,16 +60,25 @@ I'm passionate about coding, open source, and learning new technologies.
 
 ## 💬 A Quote Close to My Heart
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&
-  size=18&
-  pause=1000&
-  color=58A6FF&
-  center=true&
-  vCenter=true&
-  width=700&
-  lines=Small+progress+is+still+progress.;
-  With+music+and+passion%2C+I+keep+moving+forward." />
+<div align="center">
+
+<table>
+<tr>
+<td style="
+padding: 18px 22px;
+border-radius: 12px;
+background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+box-shadow: 0 0 12px rgba(88,166,255,0.35);
+transition: transform 0.3s ease, box-shadow 0.3s ease;
+">
+  
+<p style="font-size: 16px; color: #e6edf3; font-style: italic;">
+“Life isn’t just about writing code — it’s about enjoying the moments that keep us grounded and motivated.”
 </p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
