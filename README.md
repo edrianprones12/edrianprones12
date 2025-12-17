@@ -62,13 +62,30 @@ I'm passionate about coding, open source, and learning new technologies.
 
 <div align="center">
 
+<svg width="90%" height="120" viewBox="0 0 1000 120" preserveAspectRatio="none">
+  <rect x="5" y="5" width="990" height="110" rx="18" ry="18"
+        fill="none"
+        stroke="#58a6ff"
+        stroke-width="2"
+        stroke-dasharray="12 8">
+    <animate
+      attributeName="stroke-dashoffset"
+      from="0"
+      to="40"
+      dur="6s"
+      repeatCount="indefinite" />
+  </rect>
+</svg>
+
 <p style="
-padding: 14px 18px;
-border-left: 4px solid #58a6ff;
-background-color: rgba(88,166,255,0.08);
-border-radius: 8px;
-font-style: italic;
-color: #e6edf3;
+  margin-top: -90px;
+  padding: 28px 36px;
+  max-width: 820px;
+  font-size: 18px;
+  font-style: italic;
+  letter-spacing: 0.6px;
+  line-height: 1.8;
+  color: #e6edf3;
 ">
 “Life isn’t just about writing code — it’s about enjoying the moments that keep us grounded and motivated.”
 </p>
