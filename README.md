@@ -50,7 +50,7 @@ I'm passionate about coding, open source, and learning new technologies.
       <img src="https://github-readme-stats.vercel.app/api?username=edrianprones12&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=edrianprones12&theme=tokyonight&hide_border=true" />
+      <img src="https://readme-streak-stats.demolab.com/api?user=edrianprones12\&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
