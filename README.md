@@ -16,7 +16,7 @@ I'm passionate about coding, open source, and learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Lnguags and Tools I've Learned
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
