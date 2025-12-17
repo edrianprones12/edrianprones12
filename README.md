@@ -1,4 +1,4 @@
-# 👋Hello there, I am Edrian!
+![alt text](<github-header-banner.png>)
 
 ✨ Information Technology Student | Exploring web & building cool stuff
 
