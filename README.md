@@ -62,23 +62,12 @@ I'm passionate about coding, open source, and learning new technologies.
 
 <div align="center">
 
-<table>
-<tr>
-<td style="
-padding: 18px 22px;
-border-radius: 12px;
-background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-box-shadow: 0 0 12px rgba(88,166,255,0.35);
-transition: transform 0.3s ease, box-shadow 0.3s ease;
-">
-  
-<p style="font-size: 16px; color: #e6edf3; font-style: italic;">
+<hr width="60%" style="border: 1px solid #30363d;" />
+
+<p style="font-size: 16px; font-style: italic; color: #c9d1d9;">
 “Life isn’t just about writing code — it’s about enjoying the moments that keep us grounded and motivated.”
 </p>
 
-</td>
-</tr>
-</table>
+<hr width="30%" style="border: 1px solid #58a6ff;" />
 
 </div>
-
