@@ -40,6 +40,8 @@ I'm passionate about coding, open source, and learning new technologies.
 
 ---
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=edrianprones12&theme=tokyo-night)
+
 ## 📊 GitHub Activity
 
 <table>
