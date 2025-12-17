@@ -50,7 +50,7 @@ I'm passionate about coding, open source, and learning new technologies.
       <img src="https://github-readme-stats.vercel.app/api?username=edrianprones12&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://readme-streak-stats.demolab.com/api?user=edrianprones12\&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://readme-streak-stats.demolab.com/api?user=edrianprones12&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -58,36 +58,13 @@ I'm passionate about coding, open source, and learning new technologies.
 
 ---
 
-## 💬 A Quote Close to My Heart
+## 💬 One of my Favorite Quote
 
-<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f2027,100:203a43&text=Life%20isn’t%20just%20about%20writing%20code%20—%20it’s%20about%20enjoying%20the%20moments%20that%20keep%20us%20grounded%20and%20motivated.&fontColor=e6edf3&fontSize=18&animation=fadeIn&stroke=58a6ff&strokeWidth=1"
+  width="100%"
+/>
 
-<svg width="90%" height="120" viewBox="0 0 1000 120" preserveAspectRatio="none">
-  <rect x="5" y="5" width="990" height="110" rx="18" ry="18"
-        fill="none"
-        stroke="#58a6ff"
-        stroke-width="2"
-        stroke-dasharray="12 8">
-    <animate
-      attributeName="stroke-dashoffset"
-      from="0"
-      to="40"
-      dur="6s"
-      repeatCount="indefinite" />
-  </rect>
-</svg>
-
-<p style="
-  margin-top: -90px;
-  padding: 28px 36px;
-  max-width: 820px;
-  font-size: 18px;
-  font-style: italic;
-  letter-spacing: 0.6px;
-  line-height: 1.8;
-  color: #e6edf3;
-">
 “Life isn’t just about writing code — it’s about enjoying the moments that keep us grounded and motivated.”
-</p>
 
-</div>
+
