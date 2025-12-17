@@ -55,4 +55,8 @@ I'm passionate about coding, open source, and learning new technologies.
   </tr>
 </table>
 
+---
 
+## 💬 A Quote Close to My Heart
+
+> *“Life isn’t just about writing code — it’s about enjoying the moments that keep us grounded and motivated.”*
