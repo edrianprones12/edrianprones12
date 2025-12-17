@@ -58,8 +58,6 @@ I'm passionate about coding, open source, and learning new technologies.
 
 ---
 
----
-
 ## 💬 A Quote Close to My Heart
 
 <p align="center">
