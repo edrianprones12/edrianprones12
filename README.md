@@ -62,12 +62,15 @@ I'm passionate about coding, open source, and learning new technologies.
 
 <div align="center">
 
-<hr width="60%" style="border: 1px solid #30363d;" />
-
-<p style="font-size: 16px; font-style: italic; color: #c9d1d9;">
+<p style="
+padding: 14px 18px;
+border-left: 4px solid #58a6ff;
+background-color: rgba(88,166,255,0.08);
+border-radius: 8px;
+font-style: italic;
+color: #e6edf3;
+">
 “Life isn’t just about writing code — it’s about enjoying the moments that keep us grounded and motivated.”
 </p>
-
-<hr width="30%" style="border: 1px solid #58a6ff;" />
 
 </div>
