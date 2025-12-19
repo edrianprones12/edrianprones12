@@ -1,0 +1,48 @@
+name: boat_classifier
+description: "AquaLens - Boat Image Classification App using TensorFlow Lite"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+  
+  # ML & Image Processing
+  tflite_flutter: ^0.12.1
+  image: ^4.2.0
+  
+  # Camera & Image Picker
+  camera: ^0.11.0+2
+  image_picker: ^1.1.2
+  
+  # Utilities
+  path_provider: ^2.1.4
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/model_unquant.tflite
+    - assets/labels.txt
+    - assets/boat_logo.png
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/boat_logo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/boat_logo.png"

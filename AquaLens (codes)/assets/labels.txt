@@ -1,0 +1,10 @@
+Bamboo Raft
+Cargo Boat
+Ferry Boat
+Fishing Boat
+Jet Ski
+Kayak
+Sail Boat
+Speed Boat
+Tourist Boat
+Yacht
