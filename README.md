@@ -55,6 +55,29 @@ I'm passionate about coding, open source, and learning new technologies.
   </tr>
 </table>
 
+---
+
+##Current Project: AquaLens (Flutter App)
+
+
+---
+
+##AquaLens App Overview
+
+
+
+
+
+---
+
+##Boat Classifications
+
+
+---
+
+##App Features & Summary
+
+
 
 ---
 
