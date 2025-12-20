@@ -127,14 +127,7 @@ The **Analytics** screen summarizes how the app is being used, including how man
 
 ## 💬 Quote of the Day
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f2027,100:203a43&text=Programming%20is%20similar%20to%20a%20game%20of%20golf.%20The%20point%20is%20not%20getting%20the%20ball%20in%20the%20hole%20but%20how%20many%20strokes%20it%20takes.&fontColor=e6edf3&fontSize=18&animation=fadeIn&stroke=58a6ff&strokeWidth=1"
-  width="100%"
-/>
-
 > “Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.”
 > — *Harlan Mills*
 
-✨ *"Learning to code, one commit at a time"* ✨
-
-Thanks for visiting! Feel free to check out my repos and connect! 🚀
+Thanks for visiting! Feel free to check out my repos and connect! ✨
