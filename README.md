@@ -49,7 +49,7 @@ I'm passionate about coding, open source, and learning new technologies.
       <img src="https://github-readme-stats.vercel.app/api?username=edrianprones12&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://readme-streak-stats.demolab.com/api?user=edrianprones12&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianprones12&theme=tokyonight&hide_border=true&layout=compact" />
     </td>
   </tr>
 </table>
@@ -83,33 +83,33 @@ Below is a quick overview of the boat classes that AquaLens can recognize, with 
 
 ---
 
-### 🏠 Main Page & 📖 Boat Dictionary
+### 🏠App Overview
 
-| Main Page | Boat Dictionary |
-| :---: | :---: |
-| <img src="app_screenshots/Main%20Page.jpg" width="250"> | <img src="app_screenshots/Boat%20Classifications.jpg" width="250"> |
+| Inro Screen | Main Page | Night Mode | App Information |
+| :---: | :---: | :---: | :---: |
+| <img src="app_screenshots/Intro%20Screen.jpg" width="250"> | <img src="app_screenshots/Main%20Page.jpg" width="250"> | <img src="app_screenshots/Night%20Mode.jpg" width="250"> | <img src="app_screenshots/App%20Info.jpg" width="250"> |
 
-The **Main Page** serves as the hub for the app, allowing users to navigate to the dictionary, open the camera or upload screen, and access other features of AquaLens. The **Boat Dictionary** lists all the boat species included in the model, helping users know which boats they can scan with the app. Each entry represents a class that users can scan and learn about.
+The **Intro Screen** welcomes users with a clean interface, leading to the **Main Page** which serves as the central hub for accessing the camera, gallery, and other features. The app includes a sleek **Night Mode** for comfortable usage in low-light environments, while the **App Information** section provides details about AquaLens and lists all supported boat classifications for easy reference.
 
 ---
 
 ### 📷 Capture or Upload Images & ✅ Scan Result
 
-| Capture or Upload Images | Scan Result |
-| :---: | :---: |
-| <img src="app_screenshots/Camera.jpg" width="250"> | <img src="app_screenshots/Bamboo%20Raft%20Result.jpg" width="250"> |
+| Capture Image | Upload Images | Scan Result | 
+| :---: | :---: | :---: |
+| <img src="app_screenshots/Camera.jpg" width="250"> | <img src="app_screenshots/Upload.jpg" width="250"> | <img src="app_screenshots/Bamboo%20Raft%20Result.jpg" width="250"> |
 
-Users can either take a new picture of a boat using the camera or choose an existing photo from their gallery as input for classification. The **Scan Result** screen displays the predicted class along with confidence values, helping users understand how certain the model is about its prediction.
+Users can seamlessly **Capture** a photo in real-time or **Upload** an existing image from their gallery for instant classification. The **Scan Result** screen presents the identified boat class with a high-precision **Confidence Score** and **Rating**, accompanied by a **Probability Distribution** breakdown to visualize the model's prediction accuracy.
 
 ---
 
-### 📈 Analytics, Detections per Class & 🕒 Scan History
+### Analysis Results, 🕒 Scan History, 📈 Analytics, & Detections per Class
 
-| Analytics & Detections per Class | Scan History |
-| :---: | :---: |
-| <img src="app_screenshots/Analytics.jpg" width="250"> | <img src="app_screenshots/History.jpg" width="250"> |
+| Analysis Results | Scan History | Analytics & Detections per Class |
+| :---: | :---: | :---: |
+| <img src="app_screenshots/Analysis%20Result.jpg" width="250"> | <img src="app_screenshots/History.jpg" width="250"> | <img src="app_screenshots/Analytics.jpg" width="250"> |
 
-The **Analytics** screen summarizes how the app is being used, including how many detections each boat class has. The Detections per Class chart visualizes how often each type of boat has been scanned. The **History** page keeps a record of past scans, including the detected class, accuracy, and time. This lets users review previous results and track their usage of AquaLens.
+The **Analysis Results** provide a deep dive into each scan, offering typical usage details and descriptions for the identified boat. The **Scan History** keeps a chronological record of all past identifications, allowing users to revisit previous results. The **Analytics** dashboard visualizes usage trends, displaying total scan counts and a **Most Detected per Class** bar chart to track which boat types are encountered most frequently.
 
 ---
 
